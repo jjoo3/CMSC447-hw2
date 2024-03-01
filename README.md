@@ -1,12 +1,14 @@
 # CMSC447-hw2
 1. Unzip folder
-2. Go into an IDE and open folder: python-flask-sqlite-main. 
+2. Go into an IDE and open folder: python-flask-sqlite-main //TWICE//
    All assets should be located within this folder. 
-3. Optional: In an activated virtual environment just type: python -m create_table.py
+3. Optional: In an activated virtual environment terminal enter: python -m create_table.py
    If you have an accompanying database.db that is empty. This will create the table for the database. If correct database.db is there, just skip this step.
-5. Type: python -m flask run
-6. Cntrl + click on the hosted link
+5. Enter: python -m flask run
+6. You might need to: cd python-flask-sqlite-main if you are in the wrong folder.
+7. Cntrl + click on the hosted link
 
+*Ignore this*
 Powershell instructions
 cd C:\Users\Josh\AppData\Local\Programs\Python
 python -m venv venv
