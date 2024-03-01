@@ -1,0 +1,40 @@
+.navbar {
+    background-color: rgb(0, 128, 255);
+    font-size: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    padding: 8px 5px 8px 5px;
+    text-align: left, justify;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.navbar-brand {
+    font-size: 1.5em;
+    font-weight: 600;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 33;
+}
+
+.navbar-item {
+    /* font-variant: small-caps; */
+    /* margin-left: 10px; */
+    /* font-size: 1em; */
+    font-size: 30;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 8px 5px 8px 5px;
+}
+
+.body-content {
+    padding: 5px;
+    font-family:'Segoe UI', Tahoma, Geneva, Helvetica, sans-serif;
+}
+
+.header {
+    text-align: center;
+}

@@ -1,0 +1,22 @@
+{% extends "layout.html" %}
+{% block title %}
+Add New Student
+{% endblock %}
+{% block content %}
+        <form action="{{ url_for('addrec') }}" method="POST">
+            <h3>Please Add the New Student Information:</h3>
+            Name<br>
+            <input type="text" name="nm" /><br>
+
+            ID<br>
+            <input type="text" name="add" /><br>     <!-- <textarea name="add"></textarea> -->
+
+            Points<br>
+            <input type="text" name="city" /><br>
+
+            <!-- Zip Code<br> --><br>
+            <!-- <input type="text" name="zip" /><br> -->
+
+            <input type="submit" value="Submit" /><br>
+        </form>
+{% endblock %}
