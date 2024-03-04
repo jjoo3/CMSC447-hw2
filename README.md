@@ -9,7 +9,7 @@
 7. Cntrl + click on the hosted link
 
 # Additional Comment on 3/3/24:
-Used this YouTube tutorial as a skeleton and basis to learn hohw to use python, flask, and sqlite: https://www.youtube.com/watch?v=m9hUC-WRclU&ab_channel=ClintonDaniel
+Used this YouTube tutorial as a skeleton and basis to learn how to use python, flask, and sqlite: https://www.youtube.com/watch?v=m9hUC-WRclU&ab_channel=ClintonDaniel
 Original materials came from this tutorial's Github: https://github.com/ISM6225/python-flask-sqlite 
 
 *Ignore this*
